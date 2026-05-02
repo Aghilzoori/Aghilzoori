@@ -1,4 +1,4 @@
-## Hi there 👋 I am Aqil
+## Hi there 👋 I am Aghil
 
 🔭 Currently working on ... Python and Django  
 🌱 Currently learning ... Django  
