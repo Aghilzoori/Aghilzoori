@@ -52,15 +52,6 @@
 
 <br/>
 
-<!-- Tech Stack -->
-## 🛠️ Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,js,html,css,bootstrap,tailwind,react,nodejs,postgres,mysql,sqlite,git,docker,heroku,aws,linux,nginx,vscode&perline=10" />
-</div>
-
-<br/>
-
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
 
@@ -77,54 +68,3 @@
 </div>
 
 <br/>
-
-<!-- Snake animation (نیاز به راه‌اندازی اکشن دارد، توضیحات در کامنت) -->
-<!-- 
-برای فعال‌سازی انیمیشن snake:
-1. یک Repository جدید به اسم Aghilzoori/Aghilzoori بساز (همان اسم اکانت).
-2. داخل همان ریپو یک فایل `.github/workflows/snake.yml` با محتوای زیر ایجاد کن:
-   name: generate animation
-   on:
-     schedule:
-       - cron: "0 */12 * * *"
-     workflow_dispatch:
-   jobs:
-     generate:
-       runs-on: ubuntu-latest
-       steps:
-         - uses: Platane/snk@v3
-           with:
-             github_user_name: Aghilzoori
-             outputs: |
-               dist/github-contribution-grid-snake.svg
-               dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-         - uses: crazy-max/ghaction-github-pages@v3
-           with:
-             target_branch: output
-             build_dir: dist
-           env:
-             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-3. بعد از اجرای اکشن، از لینک زیر برای نمایش انیمیشن استفاده کن:
-   https://github.com/Aghilzoori/Aghilzoori/blob/output/github-contribution-grid-snake-dark.svg
-4. خط زیر را از حالت کامنت خارج کن.
--->
-
-<!--
-<div align="center">
-  <img src="https://github.com/Aghilzoori/Aghilzoori/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</div>
--->
-
-<br/>
-
-<!-- Quote / Motto -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
-
-<br/>
-
-<!-- Footer wave -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00CED1,100:4B0082&height=120&section=footer&animation=fadeIn" />
-</div>
