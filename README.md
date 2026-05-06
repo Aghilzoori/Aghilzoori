@@ -8,3 +8,4 @@
 😄 Pronouns: ... Mr., He  
 ✨ I want to discover: ... the digital world
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Aghilzoori)](https://github.com/ryo-ma/github-profile-trophy)
