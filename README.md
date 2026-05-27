@@ -46,7 +46,7 @@
 
 <!-- Trophy -->
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Aghilzoori&theme=darkhub&column=4&margin-w=10&rank=SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
+[[![trophy](https://github-profile-trophy.vercel.app/?username=Aghilzoori&theme=darkhub&column=4&margin-w=10&rank=SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)](https://github-profile-trophy.vercel.app/?Aghilzoori=ryo-ma&no-frame=true)
 
 <br/>
 
