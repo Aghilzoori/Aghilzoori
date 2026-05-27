@@ -18,7 +18,6 @@
   <a href="mailto:aghilaghil171@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <!-- می‌تونی لینک‌های لینکدین، توییتر و ... رو به دلخواه اضافه کنی -->
 </div>
 
 <br/>
@@ -44,9 +43,29 @@
 
 <br clear="both"/>
 
-<!-- Trophy -->
+<!-- Tech Stack -->
+## 🛠️ Tech Stack
+
+<div align="center">
+  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+  ![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  
+</div>
+
+<br/>
+
+<!-- GitHub Trophies -->
 ## 🏆 GitHub Trophies
-[[![trophy](https://github-profile-trophy.vercel.app/?username=Aghilzoori&theme=darkhub&column=4&margin-w=10&rank=SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)](https://github-profile-trophy.vercel.app/?Aghilzoori=ryo-ma&no-frame=true)
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Aghilzoori&theme=darkhub&column=4&margin-w=15&margin-h=15&no-frame=true&rank=SSS,SS,S,AAA,AA,A" alt="GitHub Trophies" />
+  </a>
+</div>
 
 <br/>
 
@@ -60,9 +79,21 @@
 
 <br/>
 
-<!-- Streak & Activity -->
+<!-- Streak -->
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Aghilzoori&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117&stroke=00CED1&ring=00CED1&fire=00CED1&currStreakLabel=00CED1&sideNums=00CED1&currStreakNum=00CED1&sideLabels=00CED1&dates=888888" alt="GitHub Streak" />
 </div>
 
 <br/>
+
+<!-- Activity Graph -->
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aghilzoori&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00CED1&line=00CED1&point=FFFFFF&area=true" width="100%" />
+</div>
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00CED1,100:4B0082&height=120&section=footer" />
+</div>
