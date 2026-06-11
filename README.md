@@ -55,17 +55,6 @@
 
 <br/>
 
-<!-- GitHub Trophies -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Aghilzoori&theme=darkhub&column=4&margin-w=15&margin-h=15&no-frame=true&rank=SSS,SS,S,AAA,AA,A" alt="GitHub Trophies" />
-  </a>
-</div>
-
-<br/>
-
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
 
@@ -82,13 +71,6 @@
 </div>
 
 <br/>
-
-<!-- Activity Graph -->
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aghilzoori&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00CED1&line=00CED1&point=FFFFFF&area=true" width="100%" />
-</div>
 
 <!-- Footer -->
 <div align="center">
