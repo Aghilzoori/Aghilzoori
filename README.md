@@ -43,14 +43,6 @@
 
 <br clear="both"/>
 
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aghilzoori&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10&bg_color=0D1117&title_color=00CED1&icon_color=00CED1" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aghilzoori&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117&title_color=00CED1&langs_count=8" />
-</div>
-
 <br/>
 
 <!-- Streak -->
