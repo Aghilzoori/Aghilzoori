@@ -51,7 +51,13 @@
 </div>
 
 <br/>
+<!-- Most Used Languages -->
+<<div align="center">
+  <h2>📊 Language Stats</h2>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aghilzoori&layout=donut&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00CED1" />
+</div>
 
+<br/>
 <!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00CED1,100:4B0082&height=120&section=footer" />
